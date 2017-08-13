@@ -1,0 +1,29 @@
+{
+  "name": "kate-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.md",
+  "dependencies": {
+    "barba.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "barba.js": "^1.0.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateMShirley/kate-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateMShirley/kate-portfolio/issues"
+  },
+  "homepage": "https://github.com/KateMShirley/kate-portfolio#readme"
+}
